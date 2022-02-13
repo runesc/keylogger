@@ -1,2 +1,0 @@
-google.com firebase demo[ESC]python 3.0[ENTER]
-
