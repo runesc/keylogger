@@ -1,0 +1,1 @@
+('C:\\Users\\luis\\Documents\\GitHub\\keylogger\\build\\main\\PYZ-00.pyz', [])
