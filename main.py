@@ -8,10 +8,10 @@ SEND_REPORT_EVERY = 60 # in seconds, 60 means 1 minute and so on
 
 SEND_REPORT_EVERY = False # firebase actualizará esto si es necesario
 FIREBASE_CONFIG = {
-  "apiKey": "AIzaSyASImtbY7l-Tl61K-ALF9glbsoOKWVsKDg",
-  "authDomain": "keyloggerpy-864c1.firebaseapp.com",
-  "databaseURL": "https://keyloggerpy-864c1-default-rtdb.firebaseio.com",
-  "storageBucket": "keyloggerpy-864c1.appspot.com"
+  "apiKey": "",
+  "authDomain": "",
+  "databaseURL": "",
+  "storageBucket": ""
 }
 
 
